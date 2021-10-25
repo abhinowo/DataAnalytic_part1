@@ -1,1 +1,1 @@
-# DataAnalytic_part1
+# Latihan mengerjakan beberapa dataset untuk mencari insight terkait data
